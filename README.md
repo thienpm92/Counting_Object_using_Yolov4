@@ -8,7 +8,6 @@ This project allows users to choose whether to use the model Yolov4 or OpenCV Mo
 
 #Run
 python counting.py vid_name model_type height width
-E.g: 
 - python counting.py test_video.mp4 yolov4 512 512
 - python counting.py test_video.mp4 ssd 512 512
 
