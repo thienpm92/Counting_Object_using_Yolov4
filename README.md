@@ -5,7 +5,7 @@ This project allows users to choose whether to use the model Yolov4 or OpenCV Mo
 - numpy
 - torch>=1.4.0
 - opencv cuda 4.5.0
-- 
+
 #Run
 python counting.py vid_name model_type height width
 E.g: python counting.py test_video.mp4 yolov4 512 512
